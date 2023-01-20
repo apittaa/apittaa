@@ -1,4 +1,4 @@
-### Olá! Eu sou o Arthur Pitta, Business Data Analyst, criador de conteúdo de programação e tecnologia 👨🏻‍💻
+### Olá! Eu sou o Arthur Pitta, Business Intelligence Analyst, criador de conteúdo de programação e tecnologia 👨🏻‍💻
 
 ## Tecnologias
 <div style="display: inline_block">
