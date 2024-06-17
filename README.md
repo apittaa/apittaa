@@ -1,8 +1,38 @@
-## Hello! I'm Arthur Pitta, Data Engineer, programming and technology content creator 👨🏻‍💻
+## 🔍 Data Engineer | AWS/GCP & ETL/ELT Specialist | Tech Mentor
 
-### As an accomplished Business Intelligence Analyst with a strong educational drive, I've accumulated a wealth of experience in the industry. I worked as a contractor for Nutracap Labs, where my contributions played a key role in optimizing data management protocols, resulting in tangible improvements and significant cost savings for the organization. I played a key role centered around promoting a DevOps mindset and instilling a culture of data-driven decision-making. Key aspects of my work involve developing and maintaining our company's data warehouse on Bigquery, optimizing processes with a data-centric approach, and creating and managing insightful reports and dashboards. Additionally, I'm responsible for designing and maintaining data ingestion pipelines, enabling our organization to harness the full potential of data.
+Hello there! I’m an accomplished data engineering, dedicated to transforming complex data into actionable insights. With a focus on AWS and GCP services and ETL/ELT processes, I build robust data pipelines that power intelligent decision-making.
 
-### Driven by my passion for continuous learning, I approach my role with an educational vocation. I am committed to expanding my knowledge base while assisting those interested in embarking on a programming journey. To this end, I've created an Instagram profile with the goal of imparting knowledge and supporting individuals in their quest to become proficient programmers.
+### What I Offer:
+
+💡 Advanced ETL/ELT Pipelines: Expert in designing and implementing ETL/ELT pipelines using AWS Glue, ensuring seamless data integration and transformation.
+
+🚀 Efficient Data Workflows: Proven experience in reducing processing times and improving data retrieval speeds with technologies like PySpark, Airflow, and dbt.
+
+🛠️ Best Practices Advocate: Committed to clean, maintainable code through automation and Agile methodologies, utilizing tools like CodeCommit and GitHub Actions.
+
+📈 Data Model Optimization: Skilled in constructing comprehensive data models that enhance reporting efficiency and operational performance.
+
+💻 Technical Agility: Proficient in Python and SQL, I excel in solving complex data challenges with innovative and scalable solutions.
+
+🔧 My skills include: GCP, AWS, SQL, Python, PySpark, Apache Airflow, Prefect, dbt, Docker enabling me to excel in this dynamic field. Additionally, I possess a versatile skill set encompassing Snowflake, BigQuery, Power BI, Looker Studio, Tableau.
+
+### Career Goals:
+
+🎯 To lead a data engineering team, fostering an environment where innovation and efficiency drive success.
+
+🌱 To mentor aspiring data engineers, sharing my expertise to accelerate their professional growth.
+
+### Professional Impact:
+
+📈 Consistently delivered high-quality data solutions in dynamic environments, from small companies to leading tech companies.
+
+🗣️ Engaged with a wide audience through my technical insights, simplifying complex data concepts and promoting best practices in the industry.
+
+🌟 Focused on refining my skills in data engineering and empowering peers to achieve excellence.
+
+### Let's Make Connections:
+
+🤝 I'm eager to contribute my technical expertise to a team that's all about progress and innovation. If you’re scouting for a data engineer, let’s chat!
 
 ## Tecnologias
 <div style="display: inline_block">
@@ -19,6 +49,6 @@
 </div>
 
 ## Redes Sociais
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://devpitta.github.io/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurpython_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pittaa/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arthurpitta21/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://devpitta.github.io/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oarthurpitta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pittaa/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arthurpitta21/)
 
 Apaixonado por tecnologia, ensinar e transformar a vida das pessoas.
