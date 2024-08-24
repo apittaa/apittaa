@@ -34,7 +34,7 @@ Hello there! I’m an accomplished data engineering, dedicated to transforming c
 
 - I'm eager to contribute my technical expertise to a team that's all about progress and innovation. If you’re scouting for a data engineer, let’s chat!
 
-## Tecnologias
+## Technologies
 <div style="display: inline_block">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img align="center" alt="ApacheSpark" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"/>
@@ -46,7 +46,7 @@ Hello there! I’m an accomplished data engineering, dedicated to transforming c
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> 
 </div>
 
-## Redes Sociais
+## Social Media
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://devpitta.github.io/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oarthurpitta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pittaa/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arthurpitta21/)
 
-Apaixonado por tecnologia, ensinar e transformar a vida das pessoas.
+Passionate about technology, teaching and transforming people's lives.
