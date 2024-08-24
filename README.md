@@ -1,4 +1,4 @@
-## 🔍 Data Engineer | AWS/GCP & ETL/ELT Specialist | Tech Mentor
+## Data Engineer | AWS/GCP & ETL/ELT Specialist | Tech Mentor
 
 Hello there! I’m an accomplished data engineering, dedicated to transforming complex data into actionable insights. With a focus on AWS and GCP services and ETL/ELT processes, I build robust data pipelines that power intelligent decision-making.
 
