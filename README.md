@@ -1,38 +1,20 @@
-## Data Engineer | AWS/GCP & ETL/ELT Specialist | Tech Mentor
+## Senior Data Engineer | AWS/GCP & ETL/ELT Specialist | Tech Mentor
 
 Hello there! I’m an accomplished data engineering, dedicated to transforming complex data into actionable insights. With a focus on AWS and GCP services and ETL/ELT processes, I build robust data pipelines that power intelligent decision-making.
 
-### What I Offer:
+- **Programming Languages:** Python, SQL, Bash
+- **Cloud Platforms:** AWS, GCP
+- **AWS Services:** S3, Glue, Lambda, Redshift
+- **GCP Services:** BigQuery, Dataflow, Cloud Storage, Pub/Sub
+- **Databases & Data Warehouses:** PostgreSQL, MySQL, BigQuery, Snowflake, SQLite
+- **Data Processing & Orchestration:** Databricks, Airflow, Prefect, Dagster, Spark, PySpark
+- **Data Modeling & Transformation:** dbt, Trino, Iceberg, Delta, DuckDB
+- **Data Quality & Metadata Management:** OpenMetadata
+- **DevOps & Version Control:** Git, GitHub, Docker, Docker Compose, Dev Containers
+- **Business Intelligence & Visualization:** Power BI, Tableau
+- **Methodologies:** SAFe Scrum, Agile
 
-- Advanced ETL/ELT Pipelines: Expert in designing and implementing ETL/ELT pipelines using AWS Glue, ensuring seamless data integration and transformation.
-
-- Efficient Data Workflows: Proven experience in reducing processing times and improving data retrieval speeds with technologies like PySpark, Airflow, and dbt.
-
-- Best Practices Advocate: Committed to clean, maintainable code through automation and Agile methodologies, utilizing tools like CodeCommit and GitHub Actions.
-
-- Data Model Optimization: Skilled in constructing comprehensive data models that enhance reporting efficiency and operational performance.
-
-- Technical Agility: Proficient in Python and SQL, I excel in solving complex data challenges with innovative and scalable solutions.
-
-- My skills include: GCP, AWS, SQL, Python, PySpark, Apache Airflow, Prefect, dbt, Docker enabling me to excel in this dynamic field. Additionally, I possess a versatile skill set encompassing Snowflake, BigQuery, Power BI, Looker Studio, Tableau.
-
-### Career Goals:
-
-- To lead a data engineering team, fostering an environment where innovation and efficiency drive success.
-
-- To mentor aspiring data engineers, sharing my expertise to accelerate their professional growth.
-
-### Professional Impact:
-
-- Consistently delivered high-quality data solutions in dynamic environments, from small companies to leading tech companies.
-
-- Engaged with a wide audience through my technical insights, simplifying complex data concepts and promoting best practices in the industry.
-
-- Focused on refining my skills in data engineering and empowering peers to achieve excellence.
-
-### Let's Make Connections:
-
-- I'm eager to contribute my technical expertise to a team that's all about progress and innovation. If you’re scouting for a data engineer, let’s chat!
+Let's Make Connections. I'm eager to contribute my technical expertise to a team that's all about progress and innovation. If you’re scouting for a Senior Data Engineer, let’s chat!
 
 ## Technologies
 <div style="display: inline_block">
